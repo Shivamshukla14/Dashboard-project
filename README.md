@@ -1,2 +1,1 @@
-# Dashboard-project
-Python Internal II
+# Dashboard on cricket players stats analysis of all time
