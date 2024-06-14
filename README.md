@@ -40,3 +40,5 @@ The code is well-structured with clear sections for:
 * **Data Filtering:** Allow filtering data by cricket format (ODI, Test, T20).
 * **Player Search:** Implement a search bar for filtering players.
 * **Downloadable Report:** Enable generation of downloadable reports summarizing the dashboard findings.
+
+**Check it out on -** https://shivamshukla14-dashboard-project-app-caj1y0.streamlit.app/
