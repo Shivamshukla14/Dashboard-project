@@ -20,7 +20,7 @@ df = pd.read_csv("most_runs_in_cricket.csv")
 
 #Setting up sidebar\
 st.sidebar.subheader(":large_blue_diamond: Navigate")
-option = st.sidebar.radio("",options=["Home","Overview","Performance", "Compare"])
+option = st.sidebar.radio("Select a page:", options=["Home","Overview", "Performance", "Compare"])
 
 #Data for KPI
 average_matches = round(df['Mat'].mean())
